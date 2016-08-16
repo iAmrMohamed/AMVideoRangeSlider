@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Example
+//  VideoRangeSlider
 //
-//  Created by Amr Mohamed on 8/16/16.
+//  Created by Amr Mohamed on 7/7/16.
 //  Copyright © 2016 Amr Mohamed. All rights reserved.
 //
 
