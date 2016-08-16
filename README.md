@@ -64,4 +64,4 @@ $ pod install
 
 ## License
 
-AMSloMoRangeSlider is released under the MIT license. See LICENSE for details.
+AMVideoRangeSlider is released under the MIT license. See LICENSE for details.
