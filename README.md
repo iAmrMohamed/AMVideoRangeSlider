@@ -72,6 +72,7 @@ To integrate AMVideoRangeSlider into your Xcode project using Carthage, specify 
 
 ```ogdl
 github "iAmrMohamed/AMVideoRangeSlider" ~> 1.0.0
+```
 
 ## Requirements
 
