@@ -71,7 +71,7 @@ $ brew install carthage
 To integrate AMVideoRangeSlider into your Xcode project using Carthage, specify it in your `Cartfile`:
 
 ```ogdl
-github "iAmrMohamed/AMVideoRangeSlider" ~> 1.0.0
+github "iAmrMohamed/AMVideoRangeSlider" "master"
 ```
 
 ## Requirements
